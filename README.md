@@ -1,4 +1,4 @@
-Guild Website for WoW Guild, <Grim> of Fairbanks-US.
+Guild Website for WoW Guild Grim of Fairbanks-US.
 
 A Fork of https://github.com/mattadjohnson/guild
 
