@@ -9,7 +9,7 @@ a img {
 }
 
 a {
-    color: #72c479;
+    color: #b55400;
 }
 
 ::-moz-selection {
@@ -22,12 +22,13 @@ a {
   color: #fff;
 }
 
+/* scroll btn */
 .guild-fab {
   position: absolute;
   right: 20%;
   bottom: -26px;
   z-index: 3;
-  background: #72c479 !important;
+  background: #b55400 !important;
   color: white !important;
 }
 
@@ -35,9 +36,10 @@ a {
   margin-top: 1px;
 }
 
+/* header guild name*/
 .guild-title {
   font-size: 26px;
-  color: #72c479;
+  color: #b55400;
   letter-spacing: 4px;
   font-weight: 300;
 }
@@ -45,9 +47,9 @@ a {
 .guild-mobile-title {
   display: none !important;
 }
-
+/* pop out guild title */
 .guild-menu-logo-image {
-  color: #F1F1F1;
+  color: #EEEEEE;
   letter-spacing: 4px;
   font-weight: 300;
   font-size: 1.2em;
@@ -60,22 +62,23 @@ a {
   font-size: 1.2em;
 }
 
+/* header bg */
 .guild-header {
   overflow: visible;
-  background-color: white;
+  background-color: #222831;
 }
 
 .guild-header .material-icons {
-  color: #767777 !important;
+  color: #cccccc !important;
 }
 
 .guild-header .mdl-layout__drawer-button {
   background: transparent;
-  color: #767777;
+  color: #cccccc;
 }
-
+/* header nav txt */
 .guild-header .mdl-navigation__link {
-  color: #757575;
+  color: #EEEEEE;
   font-weight: 700;
   font-size: 14px;
 }
@@ -107,9 +110,9 @@ a {
   background-color: transparent !important;
   border-bottom: 4px solid transparent;
 }
-
+/* header nav txt hover */
 .guild-navigation .mdl-navigation__link:hover {
-  border-bottom: 4px solid #A330C9;
+  border-bottom: 4px solid #b55400;
 }
 
 .guild-more-button {
@@ -121,20 +124,20 @@ a {
 .guild-drawer {
   border-right: none;
 }
-
+/* pop out nav txt */
 .guild-drawer .mdl-navigation__link.mdl-navigation__link {
   font-size: 16px;
   line-height: 35px;
-  color: #434343;
+  color: #393e46;
 }
 
 .guild-drawer .mdl-navigation .mdl-navigation__link .material-icons {
     margin: 0 10px 4px 0;
 }
-
+/* pop out header bg */
 .guild-drawer .mdl-layout-title {
   position: relative;
-  background: #72c479;
+  background: #393e46;
   height: 64px;
   line-height: 64px;
   padding-left: 20px;
@@ -142,10 +145,10 @@ a {
 
 .guild-be-together-section {
   position: relative;
-  height: 700px;
+  height: 1250px;
   width: auto;
   background-color: #f3f3f3;
-  background: url('images/wowtree.jpg') center 5% no-repeat;
+  background: url('images/pigbossbanner.png') center 5% no-repeat;
   background-size: cover;
 }
 
@@ -158,11 +161,11 @@ a {
   z-index: 1;
   background-color: rgba(0, 0, 0, 0.40);
 }
-
+/* slogan */
 .guild-logo-font {
   font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   line-height: 1;
-  color: #f1f1f1;
+  color: #EEEEEE;
   font-weight: 700;
 }
 
@@ -197,7 +200,7 @@ a {
 
 .guild-raid-section {
   position: relative;
-  background: url('images/mc-rag.png') 50% 50% no-repeat;
+  background: url('images/mc-rag.jpg') 50% 50% no-repeat;
   background-size: cover;
   height: 900px;
 }
@@ -249,7 +252,7 @@ a {
 
 .guild-alt-link {
   text-decoration: none;
-  color: #ABD473 !important;
+  color: #b55400 !important;
   font-size: 16px;
   cursor: pointer;
 }
@@ -274,14 +277,14 @@ a {
   margin-left: 12px;
   padding-bottom: 24px;
 }
-
+/* footer bg */
 .guild-footer {
-  background-color: #fafafa;
+  background-color: #222831;
   position: relative;
 }
 
 .guild-footer a:hover {
-  color: #A330C9;
+  color: #b55400;
 }
 
 .guild-footer .mdl-mega-footer--top-section::after {
