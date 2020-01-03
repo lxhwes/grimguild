@@ -13,12 +13,12 @@ a {
 }
 
 ::-moz-selection {
-  background-color: #A330C9;
+  background-color: #fe9801;
   color: #fff;
 }
 
 ::selection {
-  background-color: #A330C9;
+  background-color: #fe9801;
   color: #fff;
 }
 
