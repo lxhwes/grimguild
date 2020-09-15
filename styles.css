@@ -145,10 +145,10 @@ a {
 
 .guild-be-together-section {
   position: relative;
-  height: 1250px;
+  height: 90%;
   width: auto;
   background-color: #f3f3f3;
-  background: url('images/pigbossbanner.png') center 5% no-repeat;
+  background: url('images/cthun1.png') center 5% no-repeat;
   background-size: cover;
 }
 
@@ -203,7 +203,7 @@ a {
   position: relative;
   background: url('images/mc-rag.png') 50% 50% no-repeat;
   background-size: cover;
-  height: 1500px;
+  height: 1850px;
 }
 
 .guild-raid-band {
